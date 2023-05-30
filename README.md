@@ -40,3 +40,6 @@ npm start
 - Navigate to the backend folder
 - Run the backend server through the IDE
 - Use the provided .sql file to load the database schema for dummy data (consists of user (admin), products, customer data).
+```
+npm devStart
+```
