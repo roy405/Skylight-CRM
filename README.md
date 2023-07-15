@@ -6,6 +6,11 @@
  - Front End Framework - ReactJS
  - Backend Framework - ExpressJS
  - Database - MySQL RDBMS
+
+ # Entity Relationship Diagram (ERD)
+ </br>
+ </br>
+ ![alt text](Skylight_ERP_DB.png)
  
  # Functionalties
 - *User Management and Authentication:*
