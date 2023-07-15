@@ -10,7 +10,7 @@
  # Entity Relationship Diagram (ERD)
  </br>
  </br>
- ![](Skylight_ERP_DB.png)
+ ![alt text](https://github.com/roy405/Skylight-CRM/blob/main/Skylight_ERP_DB.png?raw=true)
  
  # Functionalties
 - *User Management and Authentication:*
